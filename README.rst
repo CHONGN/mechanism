@@ -1,38 +1,4 @@
 
-Nanyang CFD
-================
-
-Who we are?
-================
-
-We are Nanyang CFD group, which is leaded by `Prof Chan <http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=CHAN.WL&CategoryDescription=Energy>`_. He mainly contributes 
-on areas of: 
-
-* Combustion modeling
-* Combustion instability
-* Computational Fluid Dynamics (CFD)
-* Flamelet models
-* Fluid-structure interactions
-* Gas turbine engines
-* High-fidelity simulations
-* High-speed air-breathing vehicles
-* Large-eddy simulations
-* Numerical combustion
-* Pollutant emission
-* Turbulent non-/reacting flows
-
-What are inclueded inside of mechanism file?
-============
-
-Both mechanisms of Burke et al.[1] and li et al.[2] 
-are modified, by us, to be used in cantera and have been put inside 
-of "mechanism".
-
-Examples?
-=============
-Module here is mainly used in cantera related calculation.
-(eg: ...........)
-
 Reference
 =============
 
